@@ -18,3 +18,7 @@ To satisfy his requests, he develops a single smart contract with the knowledge 
 * A function that allows only the fundraising manager to withdraw the Ether collected in the contract
 * A function that closes the fundraising
 * A function that checks whether the goal set by the creator of the collection has been met, or exceeded.
+
+## Author
+Samuele Furnari
+[Linkedin](https://www.linkedin.com/in/samuele-furnari-a37567220/)
