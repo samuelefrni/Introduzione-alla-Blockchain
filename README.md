@@ -1,5 +1,5 @@
 # Introduzione alla Blockchain
-Hello, I'm Samuele Furnari, and this is my first project in Solidity.
+Hello, I'm Samuele Furnari, and this is my first project in Solidity for Start2Impact.
 
 # Project
 One of the founders of the organization would like to take advantage of the blockchain, as this innovative technology could be just what they are looking for to automate the collections they organize monthly.
