@@ -1,4 +1,4 @@
-# Introduzione alla Blockchain
+#smart-contract-fundraising
 Hello, I'm Samuele Furnari, and this is my first project in Solidity for Start2Impact.
 
 # Project
